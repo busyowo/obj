@@ -1,6 +1,5 @@
-## ServiceNow Product Manager / Owner
-Certified ServiceNow System Administrator with over 10 years of experience in product management, IT service management, and security. Skilled in leading product development from conception to launch, ensuring alignment with business objectives, and enhancing customer satisfaction. Proven track record of optimizing operations and implementing robust security measures.
-
+## Product Manager / Owner
+Seasoned and versatile technology professional with over 10 years of proven track record in implementing and maintaining enterprise solutions for medium to large enterprises. With expertise spanning both technical and business aspects of information technology, including product management, service management, business analysis, and technical sales, I excel at bridging technical and business needs to drive innovation and ensure successful project outcomes.
 ### Certifications
 - ServiceNow Certified System Administrator (CSA)
 - ITIL V3 Foundation
@@ -15,18 +14,6 @@ Certified ServiceNow System Administrator with over 10 years of experience in pr
 - Udemy: Learn the skills to become a Product Manager 
 
 ### Experience
-
-#### April 2023 - Present
-#### Freelance ServiceNow Product Manager, Techinklass
-Brought in as an independent contractor to the project team, I played a key role in aligning product development with client requirements to ensure maximum benefit from their ServiceNow investment. Initially contracted for six months, my role was extended for an additional six months due to the success of the project. I facilitated requirement gathering sessions, guided the development process, and ensured the delivery of tailored solutions that enhanced the client's ServiceNow experience and value.
-- **Requirement Gathering**: Led client requirement sessions to align business goals with ServiceNow ITSM capabilities.
-- **Product Development**: Developed custom applications using ServiceNow Studio and AES to streamline workflows. Designed front-end portal experiences tailored to various user groups' needs, enhancing user experience and maximizing ServiceNow investments.
-- **Service Catalog Customization**: Enhanced user experience by customizing service catalog items and order guides, ensuring alignment with business processes and improving ServiceNow usability.
-- **Workflow Automation & Advanced Scripting**: Configured workflows with Flow Designer and implemented JavaScript and Glide API scripts for advanced customization and automation.
-- **Data Management & System Integration**: Managed data mapping and transformation with Import Sets. Implemented REST, SOAP APIs, and web services for seamless system integration.
-- **Quality Assurance & Change Management**: Conducted rigorous manual testing and efficiently deployed changes using Update Sets to ensure reliable ServiceNow solutions.
-- **Training**: Conducted comprehensive training sessions for end-users and administrators to optimize ServiceNow solution utilization."
-
 #### May 2014 - Present
 #### Product Management Lead, Sysserve
 Sysserve, a developer of enterprise physical asset software for medium to large enterprises, I played a multifaceted role in the company's product development and operations. I ensured seamless product lifecycle management and drove continuous improvement & innovation to align with market needs and business goals.
