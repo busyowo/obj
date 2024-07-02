@@ -53,11 +53,13 @@ Key Functions:
 
 #### March 2008 - November 2012
 #### Systems and Database Engineer, Webb Fontaine Nigeria
-As a System and Database Engineer at Webb Fontaine Nigeria, I played a pivotal role in the Systems and Database Engineering team supporting the nation-wide Customs Service (NCS) modernization project, known as Asycuda++. This project digitalized NCS operations and significantly increased the import duty revenue for the Federal Government.
-- **Product Development**: Played a pivotal role in the design, development, and deployment of technology infrastructure for the Asycuda++ project.
-- **Technical Project Management**: Implemented incident, problem, change, and risk management processes to ensure smooth project operations.
-- **Customer Support**: Provided onsite and remote technical support to clients, ensuring seamless system operations and high satisfaction.
-- **Data Security**: Implemented encryption to safeguard the confidentiality of data on clients' storage devices.
+As a System and Database Engineer at Webb Fontaine Nigeria, I played a pivotal role in the Systems and Database Engineering team supporting the nationwide Customs Service (NCS) modernization project, known as Asycuda++. This project digitalized NCS operations and significantly increased the import duty revenue for the Federal Government.
+- **Infrastructure Design and Deployment**: Contributed to the design, development, and deployment of Nigeria Customs' technology infrastructure for the Asycuda++ project.
+- **IT Service Management Implementation**: Implemented incident, problem, change, and risk management processes to ensure smooth project operations and adherence to service level agreements (SLAs).
+- **Server and Database Administration**: Installed and configured enterprise servers and databases across all Nigeria Customs Service sites, ensuring optimal performance and reliability.
+- **Identity Management and SSO Implementation**: Conducted testing to assess the suitability of Oracle's identity management single-sign-on feature for the NCS environment, ensuring secure and efficient access management.
+- **Technical Support and System Maintenance**: Provided onsite and remote technical support to clients, ensuring seamless system operations and resolving issues promptly to minimize downtime.
+- **Data Security Implementation**: Implemented encryption measures to enhance the confidentiality and security of data on clients' storage devices, safeguarding sensitive information from unauthorized access.
 
 ### Skills
 - Project Management
