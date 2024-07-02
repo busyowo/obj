@@ -17,6 +17,7 @@ Results-driven Business Process Consultant with a decade and a half of extensive
 #### May 2014 - Present
 #### Principal Business Process Consultant, Sysserve
 Sysserve is a developer of INSTANTA, a suite of enterprise physical asset software for medium to large enterprises. I played a multifaceted role in the company’s product development by tightly aligning product features with market needs and business goals. I oversaw multiple INSTANTA deployment and implementation projects across various industries such as government, finance, logistics, and real estate, delivering the desired business outcomes and achieving up to 10x ROI.
+
 Key Functions:
 - **Business Process Analysis and Design**: Conducted comprehensive requirement gathering, process analysis, and process mapping to identify inefficiencies and areas for improvement.
 - **Stakeholder Engagement**: Communicated with C-level executives and other stakeholders to articulate ROI, gather buy-in, and ensure alignment with business goals. Facilitated workshops and meetings to gather input and build consensus.
