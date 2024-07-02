@@ -23,7 +23,7 @@ Key Functions:
 - **Stakeholder Engagement**: Communicated with C-level executives and other stakeholders to articulate ROI, gather buy-in, and ensure alignment with business goals. Facilitated workshops and meetings to gather input and build consensus.
 - **Project Leadership and Management**: Led multiple deployment projects using agile methodologies, ensuring successful project delivery. Developed project plans, timelines, and budgets to manage resources effectively.
 - **Process Improvement and Optimization**: Implemented automation and process re-engineering to drive process improvements and enhance operational efficiency.
-- **Performance Measurement and Reporting**: Developed key performance indicators (KPIs) to measure project success and provided regular reports to stakeholders.
+- **Performance Measurement and Reporting**: Established baseline metrics and conducted a thorough current state assessment to develop key performance indicators (KPIs). Provided stakeholders with regular reports measuring project success against these KPIs, ensuring transparency and informed decision-making.
 - **Change Management**: Created and executed change management strategies to ensure smooth adoption of new processes and technologies.
 - **Risk Management**: Identified potential risks associated with process changes and developed mitigation strategies to minimize impact.
 - **Client and Relationship Management**: Maintained strong relationships with clients, ensuring that INSTANTA solutions met their business needs and delivered measurable value.
