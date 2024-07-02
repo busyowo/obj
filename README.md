@@ -61,6 +61,17 @@ As a System and Database Engineer at Webb Fontaine Nigeria, I played a pivotal r
 - **Technical Support and System Maintenance**: Provided onsite and remote technical support to clients, ensuring seamless system operations and resolving issues promptly to minimize downtime.
 - **Data Security Implementation**: Implemented encryption measures to enhance the confidentiality and security of data on clients' storage devices, safeguarding sensitive information from unauthorized access.
 
+#### April 2023 - Present
+#### Freelance ServiceNow Product Manager, Techinklass
+Brought in as an independent contractor to the project team, I played a key role in aligning product development with client requirements to ensure maximum benefit from their ServiceNow investment. Initially contracted for six months, my role was extended for an additional six months due to the success of the project. I facilitated requirement gathering sessions, guided the development process, and ensured the delivery of tailored solutions that enhanced the client's ServiceNow experience and value.
+- **Business Process Analysis and Design**: Conducted comprehensive requirement gathering, process analysis, and process mapping to identify inefficiencies and areas for improvement.
+- **Product Development**: Developed custom applications using ServiceNow Studio and AES to streamline workflows. Designed front-end portal experiences tailored to various user groups' needs, enhancing user experience and maximizing ServiceNow investments.
+- **Service Catalog Customization**: Enhanced user experience by customizing service catalog items and order guides, ensuring alignment with business processes and improving ServiceNow usability.
+- **Workflow Automation & Advanced Scripting**: Configured workflows with Flow Designer and implemented JavaScript and Glide API scripts for advanced customization and automation.
+- **Data Management & System Integration**: Managed data mapping and transformation with Import Sets. Implemented REST, SOAP APIs, and web services for seamless system integration.
+- **Quality Assurance & Change Management**: Conducted rigorous manual testing and efficiently deployed changes using Update Sets to ensure reliable ServiceNow solutions.
+- **Training**: Conducted comprehensive training sessions for end-users and administrators to optimize ServiceNow solution utilization."
+
 ### Skills
 - Project Management
 - Stakeholder Engagement
