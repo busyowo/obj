@@ -40,11 +40,16 @@ Additional Responsibilities:
 
 #### December 2012 - April 2014
 #### Senior Technical Consultant, VANSO (Acquired)
-At VANSO, I ensured uninterrupted service delivery and security VANSO's critical messaging and banking systems, driving client satisfaction through ITIL ITSM standards implementation and continuous system improvement.
-- **Client Needs Analysis**: Conducted thorough analysis of client requirements and translated them into actionable technical solutions.
-- **Product Enhancements**: Enhanced system standards, procedures, and documentation to optimize product performance and reliability.
-- **Deployment Management**: Led the deployment of mobile payment and authentication applications across major financial institutions, ensuring scalability and security.
-- **Automated Solutions**: Developed automated solutions for database backup, replication, and report generation using BASH Shell Scripting and SQL.
+At VANSO, I ensured the continuous service delivery, reliability and security of critical messaging and finance systems, driving client satisfaction through the implementation of ITIL ITSM process and continuous system improvement.
+
+Key Functions:
+- **IT Service Management Implementation & Support**: Implemented ITIL ITSM incident, problem, and change management processes to optimize client service management and enhance satisfaction.
+- **Operational Improvement and Documentation**: Enhanced system standards, procedures, and documentation to streamline operations and ensure compliance with industry standards.
+- **Infrastructure Deployment**: Led capacity planning, configuration, and deployment of servers for mobile payment and authentication applications across major financial institutions.
+- **Service Reliability**: Ensured timely issue resolution within SLAs to maintain high service reliability and meet client expectations.
+- **System Maintenance and Upgrades**: Conducted routine database backups and infrastructure upgrades to enhance performance and support continuous business operations.
+- **Automation**: Automated critical tasks such as database backup, replication, and report generation using BASH Shell Scripting and SQL, improving operational efficiency.
+- **Value-Added Services Platform Management**: Managed various VAS-related functions, including installation, configuration, and monitoring of external messaging entities and SMS configurations for telecom operators.
 
 #### March 2008 - November 2012
 #### Systems and Database Engineer, Webb Fontaine Nigeria
