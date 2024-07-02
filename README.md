@@ -1,4 +1,4 @@
-## Product Manager / Owner
+## Business Process Consultant
 Results-driven Business Process Consultant with a decade and a half of extensive experience in both the technical and business aspects of information technology. Adept at gathering requirements from business stakeholders, translating them into functional specifications, and driving process improvements through automation and process re-engineering. Proficient in business analysis, product and project management, IT service management, technical writing, and technical sales. Demonstrated success in delivering several enterprise projects that achieved the desired business outcomes, implementing agile methodologies, and enhancing operational efficiency. Certified in ITIL, ServiceNow, CISA, and multiple technical domains. Excels at bridging technical and business needs to optimize processes and deliver value to clients.
 ### Certifications
 - ServiceNow Certified System Administrator (CSA)
@@ -15,7 +15,7 @@ Results-driven Business Process Consultant with a decade and a half of extensive
 
 ### Experience
 #### May 2014 - Present
-#### Product Management Lead, Sysserve
+#### Principal Business Process Consultant, Sysserve
 Sysserve, a developer of enterprise physical asset software for medium to large enterprises, I played a multifaceted role in the company's product development and operations. I ensured seamless product lifecycle management and drove continuous improvement & innovation to align with market needs and business goals.
 - **Product Lifecycle Management**: Led the product lifecycle from conception to launch, ensuring product-market fit and quality assurance.
 - **Market Research and Analysis**: Conducted market research to identify customer needs and competitive landscape, driving product strategy.
