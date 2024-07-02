@@ -16,13 +16,25 @@ Results-driven Business Process Consultant with a decade and a half of extensive
 ### Experience
 #### May 2014 - Present
 #### Principal Business Process Consultant, Sysserve
-Sysserve, a developer of enterprise physical asset software for medium to large enterprises, I played a multifaceted role in the company's product development and operations. I ensured seamless product lifecycle management and drove continuous improvement & innovation to align with market needs and business goals.
-- **Product Lifecycle Management**: Led the product lifecycle from conception to launch, ensuring product-market fit and quality assurance.
-- **Market Research and Analysis**: Conducted market research to identify customer needs and competitive landscape, driving product strategy.
-- **User-Centric Design**: Collaborated with design and development teams to create user-centric product features and enhancements.
-- **Go-to-Market Strategy**: Developed and executed go-to-market strategies, including SEO, digital, and email marketing campaigns to bolster product adoption.
+Sysserve is a developer of INSTANTA, a suite of enterprise physical asset software for medium to large enterprises. I played a multifaceted role in the company’s product development by tightly aligning product features with market needs and business goals. I oversaw multiple INSTANTA deployment and implementation projects across various industries such as government, finance, logistics, and real estate, delivering the desired business outcomes and achieving up to 10x ROI.
+- **Business Process Analysis and Design**: Conducted comprehensive requirement gathering, process analysis, and process mapping to identify inefficiencies and areas for improvement.
+- **Stakeholder Engagement**: Communicated with C-level executives and other stakeholders to articulate ROI, gather buy-in, and ensure alignment with business goals. Facilitated workshops and meetings to gather input and build consensus.
+- **Project Leadership and Management**: Led multiple deployment projects using agile methodologies, ensuring successful project delivery. Developed project plans, timelines, and budgets to manage resources effectively.
+- **Process Improvement and Optimization**: Implemented automation and process re-engineering to drive process improvements and enhance operational efficiency.
+- **Performance Measurement and Reporting**: Developed key performance indicators (KPIs) to measure project success and provided regular reports to stakeholders.
+- **Change Management**: Created and executed change management strategies to ensure smooth adoption of new processes and technologies.
+- **Risk Management**: Identified potential risks associated with process changes and developed mitigation strategies to minimize impact.
+- **Client and Relationship Management**: Maintained strong relationships with clients, ensuring that INSTANTA solutions met their business needs and delivered measurable value.
+- **Technology Integration**: Ensured seamless integration of INSTANTA with existing systems and technologies, leveraging the latest tools for optimal performance.
+- **Strategic Planning and Advisory**: Provided strategic advice on product development and go-to-market strategies, including SEO, digital, and email marketing campaigns to bolster market adoption.- **Market Research and Analysis**: Conducted market research to identify customer needs and competitive landscape, driving product strategy.
+
+Additional Responsibilities:
+- **QA and Product Testing**: Oversaw quality assurance and product testing to ensure the reliability and functionality of INSTANTA.
+- **Technical and End-User Documentation**: Developed comprehensive technical and end-user documentation, including user stories.
+- **Market Research and Analysis**: Conducted market research to identify customer needs and the competitive landscape, driving product strategy.
 - **Sales Enablement**: Created sales and marketing materials, conducted presentations and demos, performed ROI analysis, and developed pricing strategies to support the sales team.
 - **Customer Feedback Integration**: Implemented programs to collect and integrate customer feedback into the product development process, enhancing user satisfaction and retention.
+- **End-User Training**: Conducted end-user training sessions to ensure effective adoption and utilization of INSTANTA solutions.
 
 #### December 2012 - April 2014
 #### Senior Technical Consultant, VANSO (Acquired)
