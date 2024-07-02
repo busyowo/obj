@@ -55,12 +55,24 @@ As a System and Database Engineer at Webb Fontaine Nigeria, I played a pivotal r
 - **Data Security**: Implemented encryption to safeguard the confidentiality of data on clients' storage devices.
 
 ### Skills
-- Agile & Scrum 
+- Business Process Analysis
+- Project Management
+- Stakeholder Engagement
+- Agile & Scrum Methodologies
+- Change Management
+- Performance Measurement and Reporting
+- Technical Documentation
+- QA and Testing
+- User stories
+- Functional Designs
+- Client Relationship Management
+- Risk Management
+- Training
+- Sales Enableblement 
 - Product management
 - Service management
-- Technical sales
 - Business development
-- Application support
+- Technical support
 - Information security
 - Dev skills: Javascript, HTML, CSS, Python, Database
 
