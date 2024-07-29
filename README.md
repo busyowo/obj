@@ -31,8 +31,8 @@ My inherently inquisitive nature and passion for problem-solving empower me to d
 - My expertise in Agile and Scrum methodologies has been instrumental in delivering successful projects across various sectors. At Sysserve, I applied Agile principles to manage the development and deployment of enterprise SaaS projects in finance, real estate, logistics, energy, and government. This approach led to a 25% reduction in operational costs and consistently met business goals with improved efficiency. My ability to adapt Agile practices to different project needs has driven positive outcomes, including enhanced project timelines and better alignment with client expectations. This flexibility and commitment to Agile principles ensure that projects remain on track, responsive to change, and aligned with client goals.
 
 ### Certifications
-- ServiceNow Certified System Administrator (CSA)
 - ITIL V3 Foundation
+- ServiceNow Certified System Administrator (CSA)
 - Certified Information Auditor (CISA)
 - CompTIA Linux + Certified
 - Microsoft Certified Professional
@@ -58,7 +58,6 @@ My inherently inquisitive nature and passion for problem-solving empower me to d
 - Brought in as an independent contractor to the project team, I played a key role in aligning product development with client requirements to ensure maximum benefit from their ServiceNow investment. Initially contracted for six months, my role was extended for an additional six months due to the success of the project. I facilitated requirement-gathering sessions, guided the development process, and ensured the delivery of tailored solutions that enhanced the client's ServiceNow experience and value.
 
 ### Skills
-- Project Management
 - Stakeholder Engagement
 - Agile & Scrum Methodologies
 - Change Management
@@ -66,6 +65,7 @@ My inherently inquisitive nature and passion for problem-solving empower me to d
 - Requirements Gathering
 - Business Analysis
 - Data Analysis
+- Project Management
 - Risk Management
 - Reporting and Performance Measurement
 - Strategic Planning
