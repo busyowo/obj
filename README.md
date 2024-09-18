@@ -42,7 +42,7 @@ My inherently inquisitive nature and passion for problem-solving empower me to d
 
 ### Experience
 ##### May 2014 - Present
-#### Principal Business Process Consultant, Sysserve
+#### Co-founder, Sysserve
 - Sysserve is a developer of INSTANTA, a suite of enterprise physical asset software for medium to large enterprises. I played a multifaceted role in the company’s product development by tightly aligning product features with market needs and business goals. I oversaw multiple INSTANTA deployment and implementation projects across various industries such as government, finance, logistics, and real estate, delivering the desired business outcomes and achieving up to 10x ROI.
 
 ##### December 2012 - April 2014
