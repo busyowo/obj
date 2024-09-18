@@ -1,4 +1,4 @@
-## Business Process & Technical Consultant
+## Business and IT Digital Transformation Consultant
 Welcome to my professional portfolio. I am a dynamic IT professional with 15 years of experience in both the technical and business aspects of IT. As the co-founder of Sysserve, a B2B product-led SaaS company, I spearheaded the development of innovative web and mobile asset management tools, delivering up to 500% ROI and 30% cost savings for over 30 medium to large corporations. My expertise spans multiple sectors, including finance, logistics, real estate, health, and government, where I consistently drive transformative business and technology improvements.
 
 ## What Sets Me Apart
