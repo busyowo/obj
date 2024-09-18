@@ -50,6 +50,10 @@ As a Business and IT Digital Transformation Consultant, my passion for problem-s
 - Oracle Certified Associate 
 
 ### Experience
+##### April 2021 - Present
+#### Principal Consultant, Techinklass Consulting
+- Brought in as an independent contractor to the project team, I played a key role in aligning product development with client requirements to ensure maximum benefit from their ServiceNow investment. Initially contracted for six months, my role was extended for an additional six months due to the success of the project. I facilitated requirement-gathering sessions, guided the development process, and ensured the delivery of tailored solutions that enhanced the client's ServiceNow experience and value.
+
 ##### May 2014 - Present
 #### Co-founder, Sysserve
 - Sysserve is a developer of INSTANTA, a suite of enterprise physical asset software for medium to large enterprises. I played a multifaceted role in the company’s product development by tightly aligning product features with market needs and business goals. I oversaw multiple INSTANTA deployment and implementation projects across various industries such as government, finance, logistics, and real estate, delivering the desired business outcomes and achieving up to 10x ROI.
@@ -61,10 +65,6 @@ As a Business and IT Digital Transformation Consultant, my passion for problem-s
 ##### March 2008 - November 2012
 #### Systems and Database Engineer, Webb Fontaine
 - As a System and Database Engineer at Webb Fontaine, I played a pivotal role in the Systems and Database Engineering team supporting the nationwide Customs Service (NCS) modernization project, known as Asycuda++. This project digitalized NCS operations and significantly increased the import duty revenue for the Federal Government.
-
-##### April 2023 - Present
-#### Freelance ServiceNow Product Manager, Techinklass 
-- Brought in as an independent contractor to the project team, I played a key role in aligning product development with client requirements to ensure maximum benefit from their ServiceNow investment. Initially contracted for six months, my role was extended for an additional six months due to the success of the project. I facilitated requirement-gathering sessions, guided the development process, and ensured the delivery of tailored solutions that enhanced the client's ServiceNow experience and value.
 
 ### Skills
 - Stakeholder Engagement
